@@ -13,6 +13,8 @@
   ![Вставленное изображение (3)](https://github.com/user-attachments/assets/0c80c5a3-761b-4b39-8945-49a44eb84f15)
 5. Задание
   https://github.com/starky29/fork_shvirtd-example-python/blob/main/backup_script
+  ![crontab](https://github.com/user-attachments/assets/124f7da2-1c7e-4e56-97ea-c4fa3539316d)
+
 6. Задание
   ![dive](https://github.com/user-attachments/assets/d12299e9-ec0e-43cc-a74b-99fc42dbf70e)
   ![save_terraform](https://github.com/user-attachments/assets/81a27b8d-69f4-402c-804d-d72510b927af)
