@@ -3,7 +3,9 @@
 - https://github.com/starky29/fork_shvirtd-example-python
 - https://github.com/starky29/fork_shvirtd-example-python/blob/main/Dockerfile.python
 2. Задание
+  
   ![Вставленное изображение](https://github.com/user-attachments/assets/1a4d1411-36ee-4203-a35a-7d6b2849d556)
+  
 3. Задание
 - https://github.com/starky29/fork_shvirtd-example-python/blob/main/compose.yaml
   ![Вставленное изображение (2)](https://github.com/user-attachments/assets/d714832b-788b-4541-8a3f-3ab99219b76c)
